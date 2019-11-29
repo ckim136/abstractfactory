@@ -3,4 +3,4 @@ project(abstractfactory)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(abstractfactory main.cpp maze_factory.hpp)
+add_executable(abstractfactory main.cpp maze_factory.hpp Maze.hpp Wall.hpp Room.hpp Door.hpp)

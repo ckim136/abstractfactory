@@ -5,19 +5,11 @@
 #ifndef ABSTRACTFACTORY_MAZE_FACTORY_HPP
 #define ABSTRACTFACTORY_MAZE_FACTORY_HPP
 
-class Maze{
-    virtual void describe() = 0;
+#include "Maze.hpp"
+#include "Wall.hpp"
+#include "Door.hpp"
+#include "Room.hpp"
 
-};
-class Wall{
-    virtual void describe() = 0;
-};
-class Room{
-    virtual void describe() = 0;
-};
-class Door{
-    virtual void describe() = 0;
-};
 
 class maze_factory{
 public:
