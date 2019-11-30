@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/cygdrive/c/Users/kimem/CLionProjects/abstractfactory/main.cpp" "/cygdrive/c/Users/kimem/CLionProjects/abstractfactory/cmake-build-debug/CMakeFiles/abstractfactory.dir/main.cpp.o"
+  "/cygdrive/c/Users/kimem/CLionProjects/abstractfactory/driver.cpp" "/cygdrive/c/Users/kimem/CLionProjects/abstractfactory/cmake-build-debug/CMakeFiles/abstractfactory.dir/driver.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
